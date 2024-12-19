@@ -1,3 +1,3 @@
 # my_new_repo
 
-test
+This is my test repo.
